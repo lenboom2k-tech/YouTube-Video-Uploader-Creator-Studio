@@ -1,0 +1,6 @@
+{
+  "name": "TubeLaunch - YouTube Video Uploader & Creator Studio",
+  "description": "Professional YouTube video uploader web app with AI metadata generation, video frame thumbnail extractor, resumable uploads, tag optimization, and Shorts/Desktop preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
